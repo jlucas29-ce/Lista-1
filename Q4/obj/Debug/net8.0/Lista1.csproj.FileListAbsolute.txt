@@ -1,0 +1,15 @@
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.AssemblyInfo.cs
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.sourcelink.json
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\bin\Debug\net8.0\Lista1.exe
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\bin\Debug\net8.0\Lista1.deps.json
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\bin\Debug\net8.0\Lista1.runtimeconfig.json
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\bin\Debug\net8.0\Lista1.dll
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\bin\Debug\net8.0\Lista1.pdb
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.dll
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\refint\Lista1.dll
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.pdb
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\Lista1.genruntimeconfig.cache
+C:\Users\j02\Documents\João Lucas Saraiva-2b\Lógica de Programação\C#\Lista1\Q4\obj\Debug\net8.0\ref\Lista1.dll
